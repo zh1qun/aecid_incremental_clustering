@@ -30,4 +30,4 @@ cat data/out/clusters.txt
 
 More information on the aecid-incremental-clustering is provided in the following paper:
 
-Wurzenberger M., Skopik F., Landauer M., Greitbauer P., Fiedler R., Kastner W. (2017): [Incremental Clustering for Semi-Supervised Anomaly Detection applied on Log Data](https://www.skopik.at/ait/2017_ares.pdf). [12th International Conference on Availability, Reliability and Security (ARES)](https://www.ares-conference.eu/), August 29 - September 01, 2017, Reggio Calabria, Italy. ACM. \[[PDF](https://www.skopik.at/ait/2017_ares.pdf)\]
+Incremental Clustering for Semi-Supervised Anomaly Detection applied on Log Data
